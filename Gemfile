@@ -100,7 +100,7 @@ gem 'better_logging'
 
 gem 'pry-rails', :group => :development
 
-gem 'ruby-standard-deviation'
+gem "standard_deviation", "1.0.3"
 gem 'histogram', require: 'histogram/array'
 
 gem 'gift-parser', :git => 'git://github.com/PingoUPB/gift-parser.git', :require => 'gift'
